@@ -1,7 +1,7 @@
 {
-	"name": "Goku",
-	"short_name": "Goku",
-	"theme_color": "#007fff",
+	"name": "Alien",
+	"short_name": "Alien",
+	"theme_color": "#734f96",
 	"icons": [
 			{ "src": "./img/192x192.png", "sizes": "192x192", "type": "image/png" },
 			{ "src": "./img/512x512.png", "sizes": "512x512", "type": "image/png" },

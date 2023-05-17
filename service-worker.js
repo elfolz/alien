@@ -4,7 +4,7 @@ self.addEventListener('install', event => {
 
 self.addEventListener('fetch', event => {
 	event.respondWith(
-		caches.open('goku')
+		caches.open('alien')
 		.then(cache => {
 			return cache.match(event.request)
 			.then(cachedResponse => {
